@@ -56,11 +56,11 @@ echo ""
 echo -e "${bl} ~Kubernetes Auditing & Hardening Tool~${xx}"
 echo -en '\n'
 echo -e "Script made by:"
-echo -e "Achal Mali-230940123003"
-echo -e "Krutika Pathak-230940123029"
-echo -e "Sanyogita suryawanshi-230940123041"
-echo -e "Sameet Sable-230940123038"
-echo -e "prajwal-230940123031"
+echo -e "Om Patil-240340123013"
+echo -e "Atharv Sathe-240340123013"
+echo -e "Pratham Ingole-240340123037"
+echo -e "Peeyush Shaligram-240340123036"
+echo -e "Uttkarsh Yadav-240340123051"
 
 echo -en '\n'
 echo -e "Scanning and Hardening starting at..." `date`
