@@ -56,7 +56,7 @@ echo ""
 echo -e "${bl} ~Kubernetes Auditing & Hardening Tool~${xx}"
 echo -en '\n'
 echo -e "Script made by:"
-echo -e "Om Patil-240340123013"
+echo -e "Om Patil-240340123033"
 echo -e "Atharv Sathe-240340123013"
 echo -e "Pratham Ingole-240340123037"
 echo -e "Peeyush Shaligram-240340123036"
